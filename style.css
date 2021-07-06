@@ -74,3 +74,73 @@ body {
 .my-recipies p {
     font-size: 20px;
 }
+
+.recipie-container {
+    margin: 100px 5% 100px 0px;
+}
+
+.recipie-title {
+    width: 30%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10%;
+    padding: 0px 40px 20px 40px;
+}
+
+.recipie-title img {
+    width: 100%;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.health-container img {
+    width: 100%;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.health-border {
+    border-left: 7px solid;
+    border-image: linear-gradient( #A5D4EE, #048BF6);
+    border-image-slice: 1;
+}
+
+.social-container {
+    box-shadow: 10px 10px 30px rgb(209, 201, 201);
+    display: block;
+    margin: auto;
+    margin: 200px 5% 100px 100px;
+    padding: 40px;
+    border-radius: 30px;
+    display: flex;
+}
+
+.social-part {
+    width: 20%;
+    padding-left: 200px;
+}
+
+.social-part h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.footer-bg {
+    background-color: black;
+    text-align: center;
+    padding: 1px 0px 100px 0px;
+}
+
+.footer-bg p {
+    color: white;
+}
+
+.diet-image {
+    width: 50%;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+}
