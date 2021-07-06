@@ -111,7 +111,6 @@ body {
 
 .health-border {
     border-left: 7px solid;
-    border-bottom: 7px solid;
     border-image: linear-gradient( #A5D4EE, #048BF6);
     border-image-slice: 1;
     margin-right: 5%;
